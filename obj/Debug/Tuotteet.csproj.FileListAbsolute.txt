@@ -1,0 +1,9 @@
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\Tuotteet\Tuotteet\bin\Debug\Tuotteet.exe.config
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\Tuotteet\Tuotteet\bin\Debug\Tuotteet.exe
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\Tuotteet\Tuotteet\bin\Debug\Tuotteet.pdb
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\Tuotteet\Tuotteet\bin\Debug\Helpers.dll
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\Tuotteet\Tuotteet\obj\Debug\Tuotteet.csprojAssemblyReference.cache
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\Tuotteet\Tuotteet\obj\Debug\Tuotteet.csproj.CoreCompileInputs.cache
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\Tuotteet\Tuotteet\obj\Debug\Tuotteet.csproj.CopyComplete
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\Tuotteet\Tuotteet\obj\Debug\Tuotteet.exe
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\Tuotteet\Tuotteet\obj\Debug\Tuotteet.pdb
