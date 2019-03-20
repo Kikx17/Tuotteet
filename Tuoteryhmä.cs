@@ -13,7 +13,7 @@ namespace Tuotteet
 		public string Nimi { get; set; }
 
 		//Konstruktorit
-		public IdJaNimi(int id, string nimi)
+		public Tuoteryhmä(int id, string nimi)
 		{
 			Id = id;
 			Nimi = nimi;
