@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Tuotteet
 {
-	class Tuote
+	class Tuote : IId, INimi
 	{
+		//Kentät
+		public float _hinta;
+
+		//Automaattiset ominaisuudet
+		public int Id { get; set; }
+		public string Nimi { get; set; }
+		public Verokanta Alvkanta { get; set; }
 	}
 }

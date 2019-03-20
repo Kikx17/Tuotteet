@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tuotteet
 {
-	interface INimi
+	public interface INimi
 	{
 		string Nimi { get; set; }
 	}
